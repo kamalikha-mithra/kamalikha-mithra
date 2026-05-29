@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Kamalikha Mithra 👋
 
-<!--
-**kamalikha-mithra/kamalikha-mithra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 Mechatronics Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently Learning
+- Python
+- Data Structures & Algorithms
+- SQL
+- Git & GitHub
+- Machine Learning
+
+🚀 Career Goal
+Transition into Software Engineering and Product-Based Companies
+
+## Current Focus
+
+- Building Python Projects
+- Practicing DSA
+- Learning SQL
+- Developing Machine Learning Projects
+- Strengthening GitHub Portfolio
+
+## Technologies
+
+Python | SQL | Git | GitHub | Machine Learning
+
+## Connect With Me
+
+LinkedIn: (Add your LinkedIn URL here)
