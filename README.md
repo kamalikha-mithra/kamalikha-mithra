@@ -28,4 +28,4 @@ Python | SQL | Git | GitHub | Machine Learning
 
 ## Connect With Me
 
-LinkedIn: (Add your LinkedIn URL here)
+LinkedIn: www.linkedin.com/in/kamalikhamithra
