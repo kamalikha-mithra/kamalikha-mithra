@@ -1,31 +1,45 @@
 # Hi, I'm Kamalikha Mithra 👋
 
-## About Me
+### Aspiring AI Engineer | Python | Machine Learning | Generative AI | Agentic AI
 
-🎓 Mechatronics Engineering Student
+I'm a Mechatronics Engineering student interested in building intelligent applications and solving real-world problems using Artificial Intelligence.
 
-💻 Currently Learning
-- Python
-- Data Structures & Algorithms
-- SQL
-- Git & GitHub
-- Machine Learning
+My focus is on developing practical skills in Machine Learning, Deep Learning, Generative AI and Agentic AI.
 
-🚀 Career Goal
-Transition into Software Engineering and Product-Based Companies
+---
 
-## Current Focus
+## 🛠️ Technical Interests
 
-- Building Python Projects
-- Practicing DSA
-- Learning SQL
-- Developing Machine Learning Projects
-- Strengthening GitHub Portfolio
+- Artificial Intelligence & Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Generative AI & Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI & AI Agents
+- Python Application Development
 
-## Technologies
+## 💻 Tech Stack
 
-Python | SQL | Git | GitHub | Machine Learning
+**Programming:** Python, SQL
 
-## Connect With Me
+**AI & Machine Learning:** NumPy, Pandas, Scikit-learn, PyTorch
 
-LinkedIn: www.linkedin.com/in/kamalikhamithra
+**Generative AI:** LLMs, Prompt Engineering, RAG, LangChain, LangGraph
+
+**Development Tools:** Git, GitHub, VS Code
+
+**Backend & Deployment:** FastAPI, PostgreSQL, Docker
+
+## 🚀 Featured Projects
+
+Projects will be showcased here as they are completed.
+
+## 🏆 Certifications & Achievements
+
+To be updated as certifications and achievements are earned.
+ 
+## 📫 Connect With Me
+
+- GitHub: [@kamalikha-mithra](https://github.com/kamalikha-mithra)
+- LinkedIn: www.linkedin.com/in/kamalikhamithra
+
